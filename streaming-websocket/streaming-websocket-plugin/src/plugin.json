@@ -1,7 +1,8 @@
 {
-  "type": "panel",
-  "name": "Example",
-  "id": "grafana-example-panel",
+  "type": "datasource",
+  "name": "example-streaming",
+  "id": "grafana-example-streaming",
+  "metrics": true,
   "info": {
     "description": "",
     "author": {
