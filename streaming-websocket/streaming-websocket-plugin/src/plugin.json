@@ -3,6 +3,7 @@
   "name": "example-streaming",
   "id": "grafana-example-streaming",
   "metrics": true,
+  "streaming": true,
   "info": {
     "description": "",
     "author": {
